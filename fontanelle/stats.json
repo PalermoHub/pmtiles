@@ -1,0 +1,37 @@
+{
+  "totale_fontanelle": 147,
+  "per_circoscrizione": {
+    "I": 32,
+    "II": 24,
+    "III": 9,
+    "IV": 23,
+    "V": 11,
+    "VI": 8,
+    "VII": 31,
+    "VIII": 9
+  },
+  "per_quartiere": {
+    "Altarello": 4,
+    "Arenella - Vergine Maria": 9,
+    "Boccadifalco": 16,
+    "Brancaccio - Ciaculli": 13,
+    "Cruillas - S.Giovanni Apostolo": 2,
+    "Cuba - Calatafimi": 2,
+    "LibertÃ": 1,
+    "Mezzomonreale - Villa Tasca": 1,
+    "Montepellegrino": 6,
+    "Noce": 3,
+    "Oreto - Stazione": 2,
+    "Palazzo Reale - Monte di Pietà": 12,
+    "Pallavicino": 4,
+    "Partanna Mondello": 7,
+    "Politeama": 2,
+    "Resuttana - San Lorenzo": 6,
+    "Settecannoli": 11,
+    "Tommaso Natale - Sferracavallo": 11,
+    "Tribunali-Castellammare": 20,
+    "Uditore - Passo di Rigano": 7,
+    "Villagrazia - Falsomiele": 7,
+    "Zisa": 1
+  }
+}
